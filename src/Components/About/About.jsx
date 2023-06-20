@@ -28,8 +28,8 @@ export default function About() {
               Mira mis trabajos anteriores
             </a>
             <a
-              href="FelipeSuarezCV.pdf" 
-              download="Felipe-Suarez-CV.pdf"
+              href="FelipeSuarez-CV.pdf" 
+              download="FelipeSuarez-CV.pdf"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
               CV
             </a>
